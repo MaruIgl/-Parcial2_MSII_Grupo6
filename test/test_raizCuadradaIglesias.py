@@ -1,4 +1,4 @@
-# tests/test_raiz_cuadrada.py
+# test/test_raiz_cuadrada.py
 from funciones.raizCuadradaIglesias import raiz_cuadrada
 
 def test_raiz_cuadrada():
